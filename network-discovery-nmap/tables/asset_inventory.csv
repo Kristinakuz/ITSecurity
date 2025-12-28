@@ -1,7 +1,7 @@
 Device Label,IP Address (Redacted),Vendor,Open Ports,Services Identified,Risk Notes,Evidence File
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
-,192.168.0.x,,,,,01_host_discovery_redacted.txt
+Router,192.168.0.x,Netgear,,,,01_host_discovery_redacted.txt
+MacBook,192.168.0.x,Apple,,,,01_host_discovery_redacted.txt
+Management/file services,192.168.0.x,Netgear,,,,01_host_discovery_redacted.txt
+Printer,192.168.0.x,Hewlett Packard,,,,01_host_discovery_redacted.txt
+TV,192.168.0.x,Amazon Technology,,,,01_host_discovery_redacted.txt
+Security Camera,192.168.0.x,Arlo,,,,01_host_discovery_redacted.txt
