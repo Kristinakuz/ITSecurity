@@ -1,0 +1,50 @@
+# Nmap 7.98 scan initiated Sat Dec 27 2025 as: nmap -sn 192.168.0.0/24
+
+Nmap scan report for 192.168.0.x
+Host is up (low latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Network Infrastructure Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (low latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Network Infrastructure Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Network Infrastructure Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (IoT / Embedded Device Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (IoT / Smart Home Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Consumer Electronics Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Consumer Device Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Printer / Peripheral Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Unknown Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Unknown Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up (moderate latency).
+MAC Address: xx:xx:xx:xx:xx:xx (Wireless Module Vendor)
+
+Nmap scan report for 192.168.0.x
+Host is up.
+
+# Nmap done — 256 IP addresses scanned, multiple hosts identified as online
